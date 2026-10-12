@@ -77,10 +77,8 @@ The game keeps the brand in front of the player at all times: the balloon carrie
 
 ## Team
 
-<!-- Replace with your own names -->
-- *Name 1*
-- *Name 2*
-- *Name 3*
+- *A.S*
+- *M.L.A*
 
 Informatics, 3.g, 2025
 
