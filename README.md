@@ -1,4 +1,4 @@
-# Flow Wear Ad Game 🎈🐉
+# Flow Wear Ad Game
 
 An advertising game for the fictional sportswear company **Flow Wear**, built in [Scratch](https://scratch.mit.edu/) as a school project in **Informatics (3.g)** at a Danish upper secondary school (*gymnasium*).
 
@@ -82,7 +82,7 @@ The game keeps the brand in front of the player at all times: the balloon carrie
 - *Name 2*
 - *Name 3*
 
-Informatics, 3.g, *School name*, 2025
+Informatics, 3.g, 2025
 
 ## License
 
